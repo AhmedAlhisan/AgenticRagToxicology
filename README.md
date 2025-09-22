@@ -1,4 +1,4 @@
-!(ASENC.jpe![ASENC](https://github.com/user-attachments/assets/43426bb4-4482-4aff-b2b2-1002bb664215)
+![ASENC](https://github.com/user-attachments/assets/43426bb4-4482-4aff-b2b2-1002bb664215)
 g)
 
 # Final Agent Live Demo
