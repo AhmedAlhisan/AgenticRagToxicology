@@ -1,3 +1,6 @@
+![TOXBOT Logo](ASENC.jpe![ASENC](https://github.com/user-attachments/assets/43426bb4-4482-4aff-b2b2-1002bb664215)
+g)
+
 # Final Agent Live Demo
 
 This repository provides a **Colab-based demonstration notebook** showcasing how to build and run an **Agentic RAG (Retrieval-Augmented Generation) system** for toxicology and overdose management.  
